@@ -8,3 +8,9 @@ navbar {
     background-color: antiquewhite;
     overflow: hidden;
 }
+header{
+    background: url(twice\ all.jpg);
+    background-position: center;
+    background-size: cover;
+    min-height: 1000px;
+}
