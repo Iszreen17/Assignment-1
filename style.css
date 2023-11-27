@@ -1,4 +1,10 @@
  .right{
     float:right;
     direction: inline-block;
+
+}
+
+navbar {
+    background-color: antiquewhite;
+    overflow: hidden;
 }
