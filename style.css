@@ -4,7 +4,7 @@
 
 }
 
-navbar {
+#navbar {
     background-color: antiquewhite;
     overflow: hidden;
 }
@@ -14,3 +14,20 @@ header{
     background-size: cover;
     min-height: 1000px;
 }
+
+#navbar a {
+    float: left;
+    font-size: 25px;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  .topnav input[type=text] {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+  }
