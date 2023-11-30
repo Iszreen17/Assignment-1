@@ -42,12 +42,9 @@ header{
     opacity: 0.8;
     transition: 0.5s;
   }
-  .container{
-    display: flex;
-    max-width: 1200px;
-    flex-wrap: wrap;
-    justify-content: center;
-    background: antiquewhite;
+
+ 
+  h1{
 
   }
 
