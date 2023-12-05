@@ -60,8 +60,27 @@ header{
     background-color: antiquewhite;
   }
  
+  .containers{
+    display: flex;
+    flex-wrap:wrap-reverse;
+    justify-content: space-between;
+    background: white;
+    position: relative;
+    padding: 25px;
+    width: 100%;
+    
+  }
 
-
-
+  .gallery img{
+    width: 300px;
+    height: 250px;
+    object-fit: cover;
+    object-position: center;
+    padding: 25px;
+  }
+  .form {
+    width: 30%; /* Adjust the width as needed */
+    margin-right: 20px; /* Add margin for separation from the gallery */
+}
 
   
